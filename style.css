@@ -4304,3 +4304,7 @@ input[name="carousel"] { display: none; }
 
 .grecaptcha-badge { display: none; }
 /*# sourceMappingURL=main.css.map */
+
+.filter-primary {
+  filter: invert(18%) sepia(99%) saturate(7500%) hue-rotate(269deg) brightness(94%) contrast(107%);
+}
